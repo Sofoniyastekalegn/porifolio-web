@@ -1,0 +1,38 @@
+export const projects = [
+  {
+    id: 1,
+    title: 'Oxygen Manufacturing Website',
+    company: 'Edget Gas',
+    description: 'Developed a clean, fast-loading site for a manufacturing company, showcasing their industrial solutions with a performance-optimized front end.',
+    image: 'https://images.pexels.com/photos/2760243/pexels-photo-2760243.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: ['React', 'Next.js', 'TailwindCSS', 'Responsive Design'],
+    link: 'https://edgetgas.com',
+  },
+  {
+    id: 2,
+    title: 'Import-Export Blog',
+    company: 'Metbel Trading',
+    description: 'Built an import-export blog-style website for showcasing Ethiopian beans and coffee, complete with product galleries, dynamic content, and SEO optimization.',
+    image: 'https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: ['WordPress', 'SEO', 'Custom Theme', 'E-commerce'],
+    link: 'https://metbeltrading.com',
+  },
+  {
+    id: 3,
+    title: 'Enterprise Resource Planning System',
+    company: 'Hisab ERP',
+    description: 'Architected a full-featured ERP system supporting multi-company accounting, HR, payroll, invoicing, CRM, inventory, and projects. Integrated with a government e-invoicing portal.',
+    image: 'https://images.pexels.com/photos/7821473/pexels-photo-7821473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: ['React', 'Node.js', 'Express', 'PostgreSQL', 'SaaS'],
+    link: 'https://hisabportal.netlify.app/',
+  },
+  {
+    id: 4,
+    title: 'Youth Engagement Platform',
+    company: 'Youth Print',
+    description: 'Developed and deployed youth engagement platforms using Next.js and Strapi, focusing on headless CMS solutions to empower real-time content updates.',
+    image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: ['Next.js', 'Strapi', 'Headless CMS', 'Responsive'],
+    link: '#',
+  },
+];
