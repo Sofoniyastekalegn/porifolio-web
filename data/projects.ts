@@ -35,4 +35,14 @@ export const projects = [
     tags: ['Next.js', 'Strapi', 'Headless CMS', 'Responsive'],
     link: '#',
   },
+  {
+    id: 5, 
+    title: "Asthopia leather Ecommerce Webapp",
+    company: "Ashopia leaher bag",
+    description: 'leather bag manufactruing in addiababa',
+    image: 'https://images.pexels.com/photos/2760243/pexels-photo-2760243.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    tags: ['React', 'Next.js', 'TailwindCSS', 'Responsive Design'],
+    link: 'https://asthopialeather.liveblog365.com/?i=1',
+    
+  },
 ];
