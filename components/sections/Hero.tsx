@@ -57,8 +57,12 @@ export default function Hero() {
               </Button>
               
               <Button asChild variant="outline" size="lg" className="gap-2">
-                <a href="#" download>
+                
+                <a href="/Sofoniyas Tekalegn Resume" download="Sofoniyas Tekalegn Resume.pdf">
+                  
+
                   <Download size={16} />
+
                   Download CV
                 </a>
               </Button>
